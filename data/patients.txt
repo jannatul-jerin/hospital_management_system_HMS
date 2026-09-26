@@ -1,0 +1,2 @@
+p101|Jannatul|24|Female|2935822|yes|23/10/2026|d101|Admitted
+p102|fahim|24|Male|2935822324|yes|23/10/2026|d102|Admitted

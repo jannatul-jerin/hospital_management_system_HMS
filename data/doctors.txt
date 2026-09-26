@@ -1,0 +1,2 @@
+d101|dr. Jara|28|Female|994934|kidney|kidney
+d102|dr. taher|29|Male|439358322|cardio|cardio
