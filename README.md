@@ -92,3 +92,4 @@ The app creates `data/patients.txt` and `data/doctors.txt` automatically on firs
 5. Delete a doctor, then generate a report to see the updated counts.
 6. Generate and save a report from the Reports tab.
 # hospital_management_system_HMS
+# hospital_management_system_HMS
